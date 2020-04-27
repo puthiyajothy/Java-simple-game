@@ -1,0 +1,7 @@
+
+–"squid:ClassVariableVisibilityCheck"OMake map a static final constant or non-public and provide accessors if needed.(«‡÷¡H•RMINORZVULNERABILITY
+"squid:ClassVariableVisibilityCheck	"VMake brickWidth a static final constant or non-public and provide accessors if needed.(©ÆôÆH–RMINORZVULNERABILITY
+£"squid:ClassVariableVisibilityCheck
+"WMake brickHeight a static final constant or non-public and provide accessors if needed.(¢…™àùÿÿÿÿH—RMINORZVULNERABILITY
+esquid:S1197"8Move the array designator from the variable to the type.(«‡÷¡H˜RMINORZ
+CODE_SMELL
